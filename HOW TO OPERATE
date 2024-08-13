@@ -1,0 +1,11 @@
+1.) Install Python version >= 3.8
+2.) PIP install cv2 and os libraries (cv2 will most likely install other libraries needed)
+3.) Plug in a USB webcam to USB port
+4.) Open command Prompt and run 'Python CVCam.py'
+5.) a OpenCV window will appear with you webcam's POV
+6.) Press Spacebar key to capture images, and it'll be saved to the created folder 'Captured_Images'
+7.) press the 'q' key to stop OpenCV
+
+*This code is tasked to help out any students or people who want to explore edge-AI vision related projects, because OpenCV is a widely used library to help develop AI object detection.
+*You can use this OpenCV code to work with any USB compatible microcontroller devices, examples: rovers, drones, and security cameras.
+*Feel free to learn or modify the code to your likely, I hope it helps!
